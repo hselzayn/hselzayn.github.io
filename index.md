@@ -1,5 +1,5 @@
 # Karen Nershi
-## PhD Candidate
+## PhD Candidate in Political Science
 ### University of Pennsylvania
 
 I am a PhD Candidate at the University of Pennsylvania with a specialization in international political economy. 
