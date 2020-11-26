@@ -13,14 +13,14 @@ html, body, {
     right:0px;
 }
 
-#headSumitraBadrinathanTitle
+#headKarenNershiTitle
 {
     color: #4d4d4d;
     text-align: center;
     font-size: 30px;
 }
 
-#headSumitraBadrinathanTitle:hover
+#headKarenNershiTitle:hover
 {
     cursor: default;
 }
@@ -80,7 +80,7 @@ html, body, {
     border-radius: 25%;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 40%;
 }
 
 .Credentials
