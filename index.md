@@ -1,7 +1,10 @@
-# Karen Nershi
-## PhD Candidate in Political Science
-### University of Pennsylvania
+# Hadi Elzayn
+## Postdoctoral Fellow
+### Stanford University
 
-I am a PhD Candidate at the University of Pennsylvania with a specialization in international political economy. 
+I’m a Postdoctoral Fellow at Stanford University’s RegLab, where I am advised by Dan Ho, Jacob Goldin, and Jure Leskovec. Currently, I work on algorithmic and equity concerns in applying machine learning to closing the tax gap. More broadly, I’m interested in fundamental questions at the intersection of computer science and economics, as well as how algorithms in general, and machine learning in particular, can exacerbate or improve societal concerns around fairness, privacy, and markets.
 
-Before beginning my doctorate, I earned a B.A. in International Studies with honors at the University of Alabama. I have lived and studied Arabic in Amman, Jordan and Meknes, Morocco as a Foreign Language and Area Studies Fellow and recipient of a Critical Language Scholarship. I have also lived and studied in Germany.
+
+
+Prior to the RegLab, I did my PhD at the University of Pennsylvania, where I was advised by Michael Kearns. During my PhD, I interned at Facebook, Microsoft Research, and the Federal Reserve Bank of Philadelphia, and before graduate school I worked for several years at TGG Group, a Chicago-based consulting firm applying econometrics and behavioral economics to solve problems for business, non-profits, and government. I received my B.A. in Mathematics and Economics from Columbia University.
+
